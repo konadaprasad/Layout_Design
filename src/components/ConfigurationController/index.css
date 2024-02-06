@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.main-cont {
+  height: 100vh;
+}
+.nav-cont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  font-family: 'roboto';
+  background-color: #475569;
+}
+.heading {
+  font-size: 30px;
+  color: #f1f5f9;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.un-order {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0px;
+  padding-left: 0px;
+  line-height: 1.5;
+}
+.input-cont {
+  display: flex;
+  flex-direction: row;
+}
+.check-item {
+  margin-left: 20px;
+}
+.label {
+  font-size: 16px;
+  color: #f1f5f9;
+  margin-left: 10px;
+}
